@@ -3,6 +3,6 @@
     <br/>
     
    
-   You can try it out yourself here: https://a-newcomer.github.io/random-color-tiles/
+   <p>You can try it out yourself here: https://a-newcomer.github.io/random-color-tiles/</p>
 
    <img alt="screenshot of project before any tiles are clicked" src="https://github.com/a-newcomer/random-color-tiles/blob/main/assets/random-color-tiles-color.png" />

@@ -4,6 +4,4 @@
 
    <img alt="screenshot of project before any tiles are clicked" src="https://github.com/a-newcomer/random-color-tiles/blob/main/assets/random-color-tiles-bw.png" />
    
-    <br/>
-
-    <img alt="screenshot of project after a few tiles are clicked" src="https://github.com/a-newcomer/random-color-tiles/blob/main/assets/random-color-tiles-colors.png" />
+   You can try it yourself here: https://a-newcomer.github.io/random-color-tiles/

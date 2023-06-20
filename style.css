@@ -1,0 +1,39 @@
+*{
+    box-sizing:border-box;
+}
+body {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  display: flex;
+  padding: 0;
+  margin: 0 auto;
+  display: flex;
+  flex-flow: row wrap;
+  position: relative;
+}
+div {
+  height: 10vh;
+  width: 6.666%;
+}
+div:first {
+  background-color: black !important;
+  color: white;
+}
+.heading {
+  font-size: clamp(36px, 4vw, 6vw);
+  text-transform: uppercase;
+  margin-top: 20vh;
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  z-index: -5;
+  color: rgb(187, 219, 1);
+}
+.footing { 
+  position: absolute;
+  top: 0;
+  left: .5vw;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  text-align: right;
+  color:rgb(187, 219, 1);
+  color: white;
+}
